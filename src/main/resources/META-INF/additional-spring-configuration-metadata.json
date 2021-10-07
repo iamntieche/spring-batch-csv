@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "path.to.the.work.dir",
+  "type": "java.lang.String",
+  "description": "A description for 'path.to.the.work.dir'"
+}]}
